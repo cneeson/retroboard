@@ -1,0 +1,17 @@
+#index #cover-area {
+  background: url(/images/stickynotes.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: yellow;
+  height: 70vh; }
+  #index #cover-area #sign-in-box {
+    background-color: white;
+    width: 50%;
+    height: 45%;
+    margin: 0 auto;
+    position: relative;
+    top: 25%; }
+
+/*# sourceMappingURL=index.css.map */
